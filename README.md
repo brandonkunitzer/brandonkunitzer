@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon!
-- 👀 I’m interested in artifical intelligence
+- 👀 I’m interested in artifical intelligence and quantitative trading
 - 🌱 I’m currently studying computer science at Stanford University
 
 <!---
