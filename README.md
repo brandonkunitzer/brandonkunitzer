@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon!
 - 👀 I’m interested in artifical intelligence and quantitative trading
-- 🌱 I’m currently studying computer science at Stanford University
+- 🌱 I’m currently studying computer science and math at Stanford University
 
 <!---
 brandonkunitzer/brandonkunitzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
